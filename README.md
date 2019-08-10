@@ -1,5 +1,5 @@
 # Mall SVY21 Coordinates Web Scaper
-![](cover_image.png)
+<img src="cover_image.png" width="100" height="100">
 
 This was a quick side-project done to retrieve the SVY21 coordinates of all shopping malls in Singapore as data points for a larger machine learning project to predict property valuations. A web scraper was built to scrape the list of shopping malls off a wikipedia site, and the One Map API was then used to retrieve the SVY21 coordinates using the mall names.
 
